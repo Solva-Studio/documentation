@@ -16,7 +16,7 @@ The **daily reward** can range from **1** to **250 🪙 coins** (with a **streak
 ### Streak Recovery :
 To recover your lost streak, a button will appear when you run the command `<prefix>daily streak`.
 
-You can recover your lost streak if and only if you **have enough coins** (see 'Streak Recovery Price Scaling') and you **don't have** a new **streak** in progress of **more than 2 days**.
+You can recover your lost streak if and only if you **have enough coins** (see [Streak Recovery Price Scaling](https://github.com/Solva-Studio/documentation/blob/main/documentation/commands/daily.md#streak-recovery-price-scaling-)) and you **don't have** a new **streak** in progress of **more than 2 days**.
 
 > [!CAUTION]
 > If your **current streak** is **longer than 2 days**, you have **no way of recovering your lost streak**. 
